@@ -212,6 +212,8 @@ body {
   gap: 18px;
   padding-bottom: 62px;
   margin-bottom: 40px;
+  border: none;
+  border-bottom: 2px solid var(--bg-light);
 }
 
 .feature-img {
